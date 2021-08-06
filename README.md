@@ -10,7 +10,7 @@ IceSl: Advanced modeling and slicing for 3D printing with Lua script interface. 
 Lua: lightweight, high-level, multi-paradigm programming language designed primarily for embedded use in applications. Lua is cross-platform (…) and Lua has a relatively simple C API to embed it into applications. (https://en.wikipedia.org/wiki/Lua_(programming_language))
 </p>
 
-<h2> Task </h2>
+<h2> Modeule Package and Task </h2>
 This is a Team project realised between two students from the Technische Hochschule Deggendorf. This project is realised with workload encompassing development of a parametrical model, Sceintific Paper with required technical background, and a short video demostrating the working principle of the topic (Internal Gear Pump). 
 The following step are followed in the order as below :
 <ul>
