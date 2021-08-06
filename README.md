@@ -12,7 +12,7 @@ Lua: lightweight, high-level, multi-paradigm programming language designed prima
 
 <h2> Modeule Package and Task </h2>
 This is a Team project realised between two students from the Technische Hochschule Deggendorf. This project is realised with workload encompassing development of a parametrical model, Sceintific Paper with required technical background, and a short video demostrating the working principle of the topic (Internal Gear Pump). 
-The following step are followed in the order as below :
+This study package include the following files based on the task performed as stated below:
 <ul>
 <li> A Web article: The advantages and disadvantages of gearing mechanism made by additive manufacturing and how to deal with them. </li>
 <li> Compilation of the facts of the topic as a technical report including an abstract in German language as LaTeX document. </li>
