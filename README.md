@@ -15,7 +15,7 @@ This is a Team project realised between two students from the Technische Hochsch
 This study package include the following files based on the task performed as stated below:
 <ul>
 <li> A Web article: The advantages and disadvantages of gearing mechanism made by additive manufacturing and how to deal with them. </li>
-<li> Compilation of the facts of the topic as a technical report including an abstract in German language as LaTeX document. </li>
+<li> Compilation of the facts of the topic as a technical report. </li>
 <li> Implementation of a parametrically module that creates the main machine element(s) of the topic as Lua script in IceSl as STL file with a supporting instruction manual. </li>
 <li> Creation of a short instructional tutorial for the Lua script for IceSl. </li>
 <li> Video clip as educational film with the help of the animated display model based on STL files created with the Lua script in IceSl. </li>
