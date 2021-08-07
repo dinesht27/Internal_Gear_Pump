@@ -1,4 +1,4 @@
-<h1>3D Printing / Additive Manufacturing - Internal Gear Pump </h1>
+<h1>3D Printing / Additive Manufacturing - Internal Gear Pump (Modelling IceSL and LUA Scripting) </h1>
 <p>  
 This project involves development of a demonstration model of a gear based machine element (the Internal Gear pump) used for an animated education video and fabricable with additive manufacturing designed parametrically with IceSl as Lua script.
 
