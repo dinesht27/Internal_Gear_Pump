@@ -3,7 +3,7 @@
 <h2>Parameterical simulation of surface milling of a Gear in Matlab Script</h2>
 A GUI based application is developed in Matlab, which includes the Gear model, along with the CNC milling simulation model which comprices of CNC milling table, Tool head, Milling tool, etc. This application in matlab can also be used to visualize the Gear milling operation and its optimization of the surface milling considereing the linear regression concept of minimizing the error between the contact points of the tool and the gear teeth surface.
 
-<h3>3D Printing / Additive Manufacturing - Internal Gear Pump (Modelling IceSL and LUA Scripting) </h3>
+<h2>3D Printing / Additive Manufacturing - Internal Gear Pump (Modelling IceSL and LUA Scripting) </h2>
 <p>  
 This project involves development of a demonstration model of a gear based machine element (the Internal Gear pump) used for an animated education video and fabricable with additive manufacturing designed parametrically with IceSl as Lua script.
 
